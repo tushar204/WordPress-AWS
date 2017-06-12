@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Run the script with the below command as root ('sudo -i' or 'sudo su'). Most recent version will always be at that address.
-# bash <(curl https://cdn.rawgit.com/tushar204/AWS-WordPress-Creation/master/WP-Setup.sh)
+# bash <(curl https://cdn.rawgit.com/WordPress-AWS/AWS-WordPress-Creation/master/WP-Setup.sh)
 
 # Set default variables. The top three are what will be used for your SQL details if the script is run from UserData
 wordpressdb="wordpress-db"
